@@ -297,79 +297,12 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
-## 📞 Support
-
-Pour toute question ou problème :
-
-- **Issues GitHub** : [Ouvrir une issue]
-- **Email** : support@secure-chat.com
 
 
----
-
-**Développé avec ❤️ par [Votre Nom]**
+**Développé avec ❤️ par [doniphane]**
 
 *"Dans le cyberespace, la sécurité n'est pas une option, c'est une nécessité."*
 
-![Footer](assets/footer-banner.png)
+
 ```
-
-J'ai créé un README complet en français qui inclut :
-
-## 📋 **Contenu du README**
-
-### 1. **Introduction et Aperçu**
-- Description du projet avec thème hacker
-- Caractéristiques principales
-- Images d'illustration
-
-### 2. **Fonctionnalités Détaillées**
-- Authentification sécurisée
-- Système de messagerie
-- Gestion des profils
-- Interface utilisateur
-
-### 3. **Technologies Utilisées**
-- Stack technique complète
-- Backend et Frontend
-- Fonctionnalités avancées
-
-### 4. **Installation et Configuration**
-- Prérequis système
-- Étapes d'installation détaillées
-- Configuration de la base de données
-- Paramétrage du serveur web
-
-### 5. **Guide d'Utilisation**
-- Démarrage rapide
-- Fonctionnalités avancées
-- Captures d'écran explicatives
-
-### 6. **Structure du Projet**
-- Arborescence complète des fichiers
-- Description de chaque dossier
-- Organisation du code
-
-### 7. **Sécurité**
-- Mesures de sécurité implémentées
-- Recommandations de déploiement
-- Bonnes pratiques
-
-### 8. **Images Référencées**
-Les images suivantes sont référencées dans le README (à placer dans le dossier `assets/`) :
-- `banner.png` - Bannière principale
-- `chat-interface.png` - Interface de chat
-- `login-page.png` - Page de connexion
-- `chat-messages.png` - Messages du chat
-- `profile-page.png` - Page de profil
-- `technologies.png` - Stack technique
-- `database-schema.png` - Schéma de BDD
-- `register-form.png` - Formulaire d'inscription
-- `chat-full-interface.png` - Interface complète
-- `image-lightbox.png` - Lightbox d'images
-- `user-dropdown.png` - Menu utilisateur
-- `mobile-interface.png` - Version mobile
-- `footer-banner.png` - Bannière de fin
-
-Ce README professionnel présente votre projet de manière claire et attrayante, avec toutes les informations nécessaires pour comprendre, installer et utiliser l'application !
 
